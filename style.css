@@ -75,11 +75,13 @@ footer p{
     font-weight: 500;
 }
 .sobre{ 
-    background-color: aliceblue;
-    color: white;
+    background-color: rgb(208, 175, 235);
+
+    color: black;
 }
 .experiencias{
-    background-color: aliceblue;
+    background-color: rgb(208, 175, 235);
+
     color: #000;
 
 }
