@@ -1,14 +1,14 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: rgb(162, 85, 213);
+    background-color: rgb(243, 234, 249);
 }
 .inicio {
     display: flex;
     height: 100vh;
 }
 .foto {flex: 1;
-background-color:rgb(85, 223, 101);
+background-color:rgba(161, 94, 216, 0.217);
 display:flex;
 align-items: center;
 justify-content: center;
