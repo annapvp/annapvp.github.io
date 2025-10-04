@@ -1,9 +1,40 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: rgb(135, 20, 212);
+    background-color: rgb(162, 85, 213);
 }
-.inicio{
+.inicio {
     display: flex;
     height: 100vh;
+}
+.foto {flex: 1;
+background-color:rgb(172, 85, 223);
+display:flex;
+align-items: center;
+justify-content: center;
+}
+.foto img{
+    width:300px;
+    height: auto;
+    border-radius: 8px;
+}
+.infos{
+    flex:2;
+    padding: 60px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+.infos h1{
+    font-size: 48px;
+    margin: 0;
+}
+.infos h2{
+    font-size: 24px;
+    color:aliceblue;
+    margin-top: 10px;    
+}
+.infos p{
+    font-size: 18px;
+    margin: 10px 0;
 }
