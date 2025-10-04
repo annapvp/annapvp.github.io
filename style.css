@@ -60,3 +60,17 @@ justify-content: center;
     color:white;
     background-color: aliceblue;
 }
+
+footer{
+    background-color: aliceblue
+    color(srgb red green blue);
+    text-align:center;
+    padding: 20px;
+
+}
+footer p{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+}
